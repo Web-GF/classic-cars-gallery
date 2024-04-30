@@ -48,13 +48,10 @@ body {
 flex: auto;
 cursor: pointer;
 outline: 0px solid white;
-transition: 400ms;
+
 }
 
 .gallery-small:hover{
- 
-
-transition: 400ms;
 z-index: 999;
 outline: 2px solid white;
 }
